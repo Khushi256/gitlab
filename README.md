@@ -1,4 +1,5 @@
-## This repository is for the understanding of the branch merging
+## Collaboration and Remote Repositories
+
 - feature-branch is merged in the master barnch
 - It makes use of the merge command
 - command used in it is - git merge feature-branch -m "Merged feature-branch".
@@ -8,6 +9,6 @@
 
 ## Copyright (c) 2026 Khushi256
 
-You are free to use, copy, modify, and share this project for any purpose — personal, academic, or commercial. If you redistribute substantial parts, please keep this notice so others know where it came from.
-
-This project is provided "as is" without any warranty. I’m not liable for any damage or loss from using it.
+- You are free to use, copy, modify, and share this project for any purpose - personal or academic.
+- This project is provided just for education purpose to get to know more about the merge commands.
+- Feel free to contribute to this repository without any damage.
